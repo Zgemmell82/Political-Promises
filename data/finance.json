@@ -29676,5 +29676,62 @@
    "url": "https://www.fec.gov/data/candidate/H2WY00166/"
   },
   "updated": "2026-10-17"
+ },
+ "ny-17-l000599": {
+  "cycle": "2026",
+  "totalRaised": 10317627.15,
+  "smallDollarPct": 5,
+  "largeDollarPct": 95,
+  "selfFundedPct": 0,
+  "employers": [
+   {
+    "name": "HIGH OPPORTUNITY NEIGHBORHOOD PARTNERS",
+    "amount": 50000
+   },
+   {
+    "name": "BLACKSTONE",
+    "amount": 34500
+   },
+   {
+    "name": "APOLLO",
+    "amount": 32500
+   },
+   {
+    "name": "BGR GROUP",
+    "amount": 24730
+   },
+   {
+    "name": "COINBASE",
+    "amount": 24000
+   },
+   {
+    "name": "PERIGROVE",
+    "amount": 21000
+   },
+   {
+    "name": "ARNOLD VENTURES",
+    "amount": 17500
+   },
+   {
+    "name": "CAPITAL REALTY GROUP",
+    "amount": 17500
+   },
+   {
+    "name": "NEW MOUNTAIN CAPITAL",
+    "amount": 15500
+   },
+   {
+    "name": "MORGAN STANLEY",
+    "amount": 15425
+   }
+  ],
+  "industries": [],
+  "topDonors": [],
+  "pacs": [],
+  "source": {
+   "label": "FEC filings via OpenFEC",
+   "url": "https://www.fec.gov/data/candidate/H2NY17162/"
+  },
+  "updated": "2026-11-01"
  }
 }
