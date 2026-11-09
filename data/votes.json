@@ -27148,63 +27148,6 @@
   ]
  },
  {
-  "id": "h119-2-169",
-  "date": "2026-05-14",
-  "chamber": "house",
-  "rollCall": 169,
-  "billId": "H.R. 6260",
-  "title": "Keeping Violent Offenders Off Our Streets Act of 2025",
-  "question": "On Passage",
-  "result": "Passed",
-  "byOfficial": {
-   "nc-01-d000230": "Yea",
-   "nc-02-r000305": "Nay",
-   "nc-03-m001210": "Yea",
-   "nc-04-f000477": "Nay",
-   "nc-05-f000450": "Yea",
-   "nc-06-m001240": "Yea",
-   "nc-07-r000603": "Yea",
-   "nc-08-h001102": "Yea",
-   "nc-09-h001067": "Yea",
-   "nc-10-h001101": "Yea",
-   "nc-11-e000246": "Yea",
-   "nc-12-a000370": "Nay",
-   "nc-13-k000405": "Yea",
-   "nc-14-m001236": "Yea",
-   "va-01-w000804": "Yea",
-   "va-02-k000399": "Yea",
-   "va-03-s000185": "Nay",
-   "va-04-m001227": "Nay",
-   "va-05-m001239": "Yea",
-   "va-06-c001118": "Yea",
-   "va-07-v000138": "Yea",
-   "va-08-b001292": "Nay",
-   "va-09-g000568": "Yea",
-   "va-10-s001230": "Yea",
-   "va-11-w000831": "Nay"
-  },
-  "issues": [],
-  "outletId": "house-clerk",
-  "url": "https://clerk.house.gov/evs/2026/roll169.xml",
-  "promiseLinks": [
-   {
-    "promiseId": "nc-08-h001102:3",
-    "relation": "consistent",
-    "explain": "He voted yes on a bill about border security or law enforcement."
-   },
-   {
-    "promiseId": "va-01-w000804:3",
-    "relation": "consistent",
-    "explain": "He voted yes on a law enforcement bill."
-   },
-   {
-    "promiseId": "va-09-g000568:2",
-    "relation": "consistent",
-    "explain": "He voted yes on a law enforcement bill."
-   }
-  ]
- },
- {
   "id": "h119-2-171",
   "date": "2026-05-14",
   "chamber": "house",
@@ -27243,6 +27186,63 @@
   "issues": [],
   "outletId": "house-clerk",
   "url": "https://clerk.house.gov/evs/2026/roll171.xml",
+  "promiseLinks": [
+   {
+    "promiseId": "nc-08-h001102:3",
+    "relation": "consistent",
+    "explain": "He voted yes on a bill about border security or law enforcement."
+   },
+   {
+    "promiseId": "va-01-w000804:3",
+    "relation": "consistent",
+    "explain": "He voted yes on a law enforcement bill."
+   },
+   {
+    "promiseId": "va-09-g000568:2",
+    "relation": "consistent",
+    "explain": "He voted yes on a law enforcement bill."
+   }
+  ]
+ },
+ {
+  "id": "h119-2-169",
+  "date": "2026-05-14",
+  "chamber": "house",
+  "rollCall": 169,
+  "billId": "H.R. 6260",
+  "title": "Keeping Violent Offenders Off Our Streets Act of 2025",
+  "question": "On Passage",
+  "result": "Passed",
+  "byOfficial": {
+   "nc-01-d000230": "Yea",
+   "nc-02-r000305": "Nay",
+   "nc-03-m001210": "Yea",
+   "nc-04-f000477": "Nay",
+   "nc-05-f000450": "Yea",
+   "nc-06-m001240": "Yea",
+   "nc-07-r000603": "Yea",
+   "nc-08-h001102": "Yea",
+   "nc-09-h001067": "Yea",
+   "nc-10-h001101": "Yea",
+   "nc-11-e000246": "Yea",
+   "nc-12-a000370": "Nay",
+   "nc-13-k000405": "Yea",
+   "nc-14-m001236": "Yea",
+   "va-01-w000804": "Yea",
+   "va-02-k000399": "Yea",
+   "va-03-s000185": "Nay",
+   "va-04-m001227": "Nay",
+   "va-05-m001239": "Yea",
+   "va-06-c001118": "Yea",
+   "va-07-v000138": "Yea",
+   "va-08-b001292": "Nay",
+   "va-09-g000568": "Yea",
+   "va-10-s001230": "Yea",
+   "va-11-w000831": "Nay"
+  },
+  "issues": [],
+  "outletId": "house-clerk",
+  "url": "https://clerk.house.gov/evs/2026/roll169.xml",
   "promiseLinks": [
    {
     "promiseId": "nc-08-h001102:3",
@@ -27547,52 +27547,6 @@
   ]
  },
  {
-  "id": "h119-1-168",
-  "date": "2025-06-12",
-  "chamber": "house",
-  "rollCall": 168,
-  "billId": "H.R. 4",
-  "title": "Rescissions Act of 2025",
-  "question": "On Passage",
-  "result": "Passed",
-  "byOfficial": {
-   "nc-01-d000230": "Nay",
-   "nc-02-r000305": "Nay",
-   "nc-03-m001210": "Yea",
-   "nc-04-f000477": "Nay",
-   "nc-05-f000450": "Yea",
-   "nc-06-m001240": "Yea",
-   "nc-07-r000603": "Yea",
-   "nc-08-h001102": "Yea",
-   "nc-09-h001067": "Yea",
-   "nc-10-h001101": "Yea",
-   "nc-11-e000246": "Yea",
-   "nc-12-a000370": "Nay",
-   "nc-13-k000405": "Yea",
-   "nc-14-m001236": "Yea",
-   "va-01-w000804": "Yea",
-   "va-02-k000399": "Yea",
-   "va-03-s000185": "Nay",
-   "va-04-m001227": "Nay",
-   "va-05-m001239": "Yea",
-   "va-06-c001118": "Yea",
-   "va-07-v000138": "Nay",
-   "va-08-b001292": "Nay",
-   "va-09-g000568": "Yea",
-   "va-10-s001230": "Nay"
-  },
-  "issues": [],
-  "outletId": "house-clerk",
-  "url": "https://clerk.house.gov/evs/2025/roll168.xml",
-  "promiseLinks": [
-   {
-    "promiseId": "nc-05-f000450:1",
-    "relation": "consistent",
-    "explain": "A yes vote on cancelling previously approved spending, consistent with opposing big spending programs."
-   }
-  ]
- },
- {
   "id": "h119-1-166",
   "date": "2025-06-12",
   "chamber": "house",
@@ -27645,6 +27599,52 @@
     "promiseId": "va-09-g000568:1",
     "relation": "consistent",
     "explain": "He voted yes on a fentanyl bill."
+   }
+  ]
+ },
+ {
+  "id": "h119-1-168",
+  "date": "2025-06-12",
+  "chamber": "house",
+  "rollCall": 168,
+  "billId": "H.R. 4",
+  "title": "Rescissions Act of 2025",
+  "question": "On Passage",
+  "result": "Passed",
+  "byOfficial": {
+   "nc-01-d000230": "Nay",
+   "nc-02-r000305": "Nay",
+   "nc-03-m001210": "Yea",
+   "nc-04-f000477": "Nay",
+   "nc-05-f000450": "Yea",
+   "nc-06-m001240": "Yea",
+   "nc-07-r000603": "Yea",
+   "nc-08-h001102": "Yea",
+   "nc-09-h001067": "Yea",
+   "nc-10-h001101": "Yea",
+   "nc-11-e000246": "Yea",
+   "nc-12-a000370": "Nay",
+   "nc-13-k000405": "Yea",
+   "nc-14-m001236": "Yea",
+   "va-01-w000804": "Yea",
+   "va-02-k000399": "Yea",
+   "va-03-s000185": "Nay",
+   "va-04-m001227": "Nay",
+   "va-05-m001239": "Yea",
+   "va-06-c001118": "Yea",
+   "va-07-v000138": "Nay",
+   "va-08-b001292": "Nay",
+   "va-09-g000568": "Yea",
+   "va-10-s001230": "Nay"
+  },
+  "issues": [],
+  "outletId": "house-clerk",
+  "url": "https://clerk.house.gov/evs/2025/roll168.xml",
+  "promiseLinks": [
+   {
+    "promiseId": "nc-05-f000450:1",
+    "relation": "consistent",
+    "explain": "A yes vote on cancelling previously approved spending, consistent with opposing big spending programs."
    }
   ]
  },
@@ -27710,52 +27710,6 @@
   ]
  },
  {
-  "id": "h119-1-130",
-  "date": "2025-05-15",
-  "chamber": "house",
-  "rollCall": 130,
-  "billId": "H.R. 2255",
-  "title": "Federal Law Enforcement Officer Service Weapon Purchase Act of 2025",
-  "question": "On Passage",
-  "result": "Passed",
-  "byOfficial": {
-   "nc-01-d000230": "Yea",
-   "nc-02-r000305": "Nay",
-   "nc-03-m001210": "Yea",
-   "nc-04-f000477": "Nay",
-   "nc-05-f000450": "Yea",
-   "nc-06-m001240": "Yea",
-   "nc-07-r000603": "Yea",
-   "nc-08-h001102": "Yea",
-   "nc-09-h001067": "Yea",
-   "nc-10-h001101": "Yea",
-   "nc-11-e000246": "Yea",
-   "nc-12-a000370": "Nay",
-   "nc-13-k000405": "Yea",
-   "nc-14-m001236": "Yea",
-   "va-01-w000804": "Yea",
-   "va-02-k000399": "Yea",
-   "va-03-s000185": "Nay",
-   "va-04-m001227": "Nay",
-   "va-05-m001239": "Yea",
-   "va-06-c001118": "Yea",
-   "va-07-v000138": "Nay",
-   "va-08-b001292": "Nay",
-   "va-09-g000568": "Yea",
-   "va-10-s001230": "Nay"
-  },
-  "issues": [],
-  "outletId": "house-clerk",
-  "url": "https://clerk.house.gov/evs/2025/roll130.xml",
-  "promiseLinks": [
-   {
-    "promiseId": "va-06-c001118:5",
-    "relation": "consistent",
-    "explain": "He voted yes on a bill for law enforcement."
-   }
-  ]
- },
- {
   "id": "h119-1-131",
   "date": "2025-05-15",
   "chamber": "house",
@@ -27793,6 +27747,52 @@
   "issues": [],
   "outletId": "house-clerk",
   "url": "https://clerk.house.gov/evs/2025/roll131.xml",
+  "promiseLinks": [
+   {
+    "promiseId": "va-06-c001118:5",
+    "relation": "consistent",
+    "explain": "He voted yes on a bill for law enforcement."
+   }
+  ]
+ },
+ {
+  "id": "h119-1-130",
+  "date": "2025-05-15",
+  "chamber": "house",
+  "rollCall": 130,
+  "billId": "H.R. 2255",
+  "title": "Federal Law Enforcement Officer Service Weapon Purchase Act of 2025",
+  "question": "On Passage",
+  "result": "Passed",
+  "byOfficial": {
+   "nc-01-d000230": "Yea",
+   "nc-02-r000305": "Nay",
+   "nc-03-m001210": "Yea",
+   "nc-04-f000477": "Nay",
+   "nc-05-f000450": "Yea",
+   "nc-06-m001240": "Yea",
+   "nc-07-r000603": "Yea",
+   "nc-08-h001102": "Yea",
+   "nc-09-h001067": "Yea",
+   "nc-10-h001101": "Yea",
+   "nc-11-e000246": "Yea",
+   "nc-12-a000370": "Nay",
+   "nc-13-k000405": "Yea",
+   "nc-14-m001236": "Yea",
+   "va-01-w000804": "Yea",
+   "va-02-k000399": "Yea",
+   "va-03-s000185": "Nay",
+   "va-04-m001227": "Nay",
+   "va-05-m001239": "Yea",
+   "va-06-c001118": "Yea",
+   "va-07-v000138": "Nay",
+   "va-08-b001292": "Nay",
+   "va-09-g000568": "Yea",
+   "va-10-s001230": "Nay"
+  },
+  "issues": [],
+  "outletId": "house-clerk",
+  "url": "https://clerk.house.gov/evs/2025/roll130.xml",
   "promiseLinks": [
    {
     "promiseId": "va-06-c001118:5",
@@ -28337,43 +28337,6 @@
   ]
  },
  {
-  "id": "h118-1-30",
-  "date": "2023-01-11",
-  "chamber": "house",
-  "rollCall": 30,
-  "billId": "H.Con.Res. 3",
-  "title": "Expressing the sense of Congress condemning the recent attacks on pro-life facilities, groups, and churches.",
-  "question": "On Agreeing to the Resolution",
-  "result": "Passed",
-  "byOfficial": {
-   "nc-01-d000230": "Nay",
-   "nc-02-r000305": "Nay",
-   "nc-03-m001210": "Yea",
-   "nc-04-f000477": "Nay",
-   "nc-05-f000450": "Yea",
-   "nc-07-r000603": "Yea",
-   "nc-09-h001067": "Yea",
-   "nc-11-e000246": "Yea",
-   "nc-12-a000370": "Nay",
-   "va-01-w000804": "Yea",
-   "va-02-k000399": "Yea",
-   "va-03-s000185": "Nay",
-   "va-06-c001118": "Yea",
-   "va-08-b001292": "Nay",
-   "va-09-g000568": "Yea"
-  },
-  "issues": [],
-  "outletId": "house-clerk",
-  "url": "https://clerk.house.gov/evs/2023/roll030.xml",
-  "promiseLinks": [
-   {
-    "promiseId": "nc-07-r000603:2",
-    "relation": "consistent",
-    "explain": "He voted yes on this pro-life measure."
-   }
-  ]
- },
- {
   "id": "h118-1-29",
   "date": "2023-01-11",
   "chamber": "house",
@@ -28422,6 +28385,43 @@
     "promiseId": "va-02-k000399:1",
     "relation": "consistent",
     "explain": "She voted yes on this pro-life bill."
+   }
+  ]
+ },
+ {
+  "id": "h118-1-30",
+  "date": "2023-01-11",
+  "chamber": "house",
+  "rollCall": 30,
+  "billId": "H.Con.Res. 3",
+  "title": "Expressing the sense of Congress condemning the recent attacks on pro-life facilities, groups, and churches.",
+  "question": "On Agreeing to the Resolution",
+  "result": "Passed",
+  "byOfficial": {
+   "nc-01-d000230": "Nay",
+   "nc-02-r000305": "Nay",
+   "nc-03-m001210": "Yea",
+   "nc-04-f000477": "Nay",
+   "nc-05-f000450": "Yea",
+   "nc-07-r000603": "Yea",
+   "nc-09-h001067": "Yea",
+   "nc-11-e000246": "Yea",
+   "nc-12-a000370": "Nay",
+   "va-01-w000804": "Yea",
+   "va-02-k000399": "Yea",
+   "va-03-s000185": "Nay",
+   "va-06-c001118": "Yea",
+   "va-08-b001292": "Nay",
+   "va-09-g000568": "Yea"
+  },
+  "issues": [],
+  "outletId": "house-clerk",
+  "url": "https://clerk.house.gov/evs/2023/roll030.xml",
+  "promiseLinks": [
+   {
+    "promiseId": "nc-07-r000603:2",
+    "relation": "consistent",
+    "explain": "He voted yes on this pro-life measure."
    }
   ]
  }
